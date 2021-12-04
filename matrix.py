@@ -2,7 +2,7 @@ import numpy as np
 
 
 def matrix():
-    a = np.array([[1, 2, 3], [1, 2, 3], [1, 2, 3]])
+    a = np.array([[1, 1, 1], [1, 1, 1], [1, 1, 1]])
     print(a)
 
 
